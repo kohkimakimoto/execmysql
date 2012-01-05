@@ -1,0 +1,1 @@
+This is default directory to output sql execution results.
